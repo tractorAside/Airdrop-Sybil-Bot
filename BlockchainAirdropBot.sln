@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{BF5709D3-8516-483B-A3D5-5BFA23F46102}") = "BlockchainAirdropBot", "BlockchainAirdropBot.csproj", "{75B00600-52B5-4DED-BBDA-1C49D76F57BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B00600-52B5-4DED-BBDA-1C49D76F57BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B00600-52B5-4DED-BBDA-1C49D76F57BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B00600-52B5-4DED-BBDA-1C49D76F57BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B00600-52B5-4DED-BBDA-1C49D76F57BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2589075-A2B5-4866-937B-E41A5727CCCE}
+	EndGlobalSection
+EndGlobal
